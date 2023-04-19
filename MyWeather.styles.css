@@ -1,0 +1,246 @@
+/* /Pages/Index.razor.rz.scp.css */
+.main-div[b-icz2rgwdbx] {
+}
+
+.rounded-corner[b-icz2rgwdbx] {
+    border-radius: 18px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.rounded-corner-day[b-icz2rgwdbx]{
+    background: rgba(80, 133, 205, 1);
+}
+
+.rounded-corner-night[b-icz2rgwdbx]{
+    background: rgba(48, 52, 60, 1);
+}
+
+.grid-container-2-columns[b-icz2rgwdbx] {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+/* /Shared/CheckBox.razor.rz.scp.css */
+.vertical-align-center[b-jquo8bbkt9] {
+    display: flex;
+    align-items: center;
+}
+/* /Shared/DayWeatherHead.razor.rz.scp.css */
+.grid-container-2-columns[b-mfzfoqtmh0] {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.horizontal-align-center[b-mfzfoqtmh0] {
+    display: flex;
+    justify-content: center;
+}
+
+.large-icon[b-mfzfoqtmh0] {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    width: 120px;
+}
+
+.head-large-text[b-mfzfoqtmh0]{
+    font-size: 5em;
+}
+/* /Shared/DayWeatherSection.razor.rz.scp.css */
+.grid-container-5-columns[b-3z8p1w50a4] {
+    display: grid;
+    grid-template-columns: 25% 20% 15% 10% 10% 20%;
+}
+
+.bold-text[b-3z8p1w50a4]{
+    font-weight: bold;
+}
+
+.right-align[b-3z8p1w50a4]{
+    justify-content: flex-end;
+}
+
+.small-text[b-3z8p1w50a4]{
+    display: flex;
+    align-items: center;
+}
+
+.precipitation-chance[b-3z8p1w50a4] {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.precipitation-chance-text[b-3z8p1w50a4]{
+    width: 38px;
+}
+
+.rain-drop-icon[b-3z8p1w50a4]{
+    display: flex;
+    align-items: center;
+    width: 16px;
+    height: 16px;
+}
+
+.weather-icon[b-3z8p1w50a4]{
+    display: flex;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+}
+
+.collapsible[b-3z8p1w50a4] {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active[b-3z8p1w50a4], .collapsible:hover[b-3z8p1w50a4] {
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.collapsible-content-day[b-3z8p1w50a4] {
+    background-color: rgba(96, 149, 207, 1);
+}
+
+.collapsible-content-night[b-3z8p1w50a4] {
+    background-color: rgba(82, 85, 102, 1);
+}
+/* /Shared/HourlyWeatherSection.razor.rz.scp.css */
+.grid-container-24-columns[b-n6h5kljmqg] {
+    display: grid;
+    grid-template-columns: max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content;
+}
+
+.grid-container-4-columns[b-n6h5kljmqg] {
+    display: grid;
+    grid-template-columns: 35% 25% 20% 20%;
+}
+
+.past-hour-item[b-n6h5kljmqg]{
+    color: darkgray;
+}
+
+.hour-item[b-n6h5kljmqg]{
+    margin-left: 6px;
+}
+
+.small-text[b-n6h5kljmqg]{
+    display: flex;
+    align-items: center;
+}
+
+.right-align[b-n6h5kljmqg]{
+    justify-content: flex-end;
+}
+
+.weather-icon[b-n6h5kljmqg]{
+    width: 36px;
+    height: 36px;
+}
+
+.precipitation-chance[b-n6h5kljmqg] {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.precipitation-chance-text[b-n6h5kljmqg]{
+    width: 38px;
+}
+
+.rain-drop-icon[b-n6h5kljmqg]{
+    display: flex;
+    align-items: center;
+    width: 16px;
+    height: 16px;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-p44gqguxio] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-p44gqguxio] {
+    flex: 1;
+}
+
+.sidebar[b-p44gqguxio] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-p44gqguxio] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-p44gqguxio]  a, .top-row[b-p44gqguxio]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-p44gqguxio]  a:hover, .top-row[b-p44gqguxio]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-p44gqguxio]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-p44gqguxio] {
+        display: none;
+    }
+
+    .top-row.auth[b-p44gqguxio] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-p44gqguxio]  a, .top-row[b-p44gqguxio]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-p44gqguxio] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-p44gqguxio] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-p44gqguxio] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-p44gqguxio]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-p44gqguxio], article[b-p44gqguxio] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
