@@ -801,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-XwjOOqFPflcfnaZdb\/OWsmLPsXewVKdDxr0fDkn22a4=",
+      "hash": "sha256-SgiUgbpDiZpE\/ZSWEkKB1IvPBAe7HFTcIjQEmIbM56o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-e8jAXuliKrqrJiM7JicPq5SCWekItmjqCuIeegMTEJE=",
+      "hash": "sha256-xJZqnsygSvjxBMIigk18g9Rpst4mdyj87KFbJSbLhak=",
       "url": "_framework\/MyWeather.dll"
     },
     {
-      "hash": "sha256-xl\/C2qHsSpm1jEsm0YM\/Gp\/X\/0ZUDShn0cPCUJlpE2o=",
+      "hash": "sha256-CeJqEC3xWe4OlXLXZeyxHdXFH2Q+gOAmMnacmeEkw\/4=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -1029,5 +1029,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "MxyIcDoK"
+  "version": "Fiuj4zfi"
 };
