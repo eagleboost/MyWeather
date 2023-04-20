@@ -32,20 +32,20 @@
     grid-template-columns: auto auto;
 }
 
-.horizontal-align-center[b-mfzfoqtmh0] {
-    display: flex;
-    justify-content: center;
-}
-
 .large-icon[b-mfzfoqtmh0] {
     display: flex;
     justify-content: center;
     margin-top: 30px;
-    width: 120px;
+    width: 180px;
 }
 
 .head-large-text[b-mfzfoqtmh0]{
     font-size: 5em;
+}
+
+.fellslike-text[b-mfzfoqtmh0]{
+    font-size: small;
+    color: darkgray;
 }
 /* /Shared/DayWeatherSection.razor.rz.scp.css */
 .grid-container-5-columns[b-3z8p1w50a4] {
