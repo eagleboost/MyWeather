@@ -801,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-NLPDE9UejenvUlHfTl9UR+\/Vd9OF+1C8h35XSlft3mQ=",
+      "hash": "sha256-XwjOOqFPflcfnaZdb\/OWsmLPsXewVKdDxr0fDkn22a4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-g9YIkc62i\/R1V0vbyKlewCqdcMphmGbIJQ5aOSkuq4A=",
+      "hash": "sha256-e8jAXuliKrqrJiM7JicPq5SCWekItmjqCuIeegMTEJE=",
       "url": "_framework\/MyWeather.dll"
     },
     {
-      "hash": "sha256-o+jMm5BoI5\/JIjhzrquWwkJdL8MgnEob3zotiDteqJw=",
+      "hash": "sha256-xl\/C2qHsSpm1jEsm0YM\/Gp\/X\/0ZUDShn0cPCUJlpE2o=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -873,47 +873,47 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-DjREBYygS86XK5RfiHLdmHQxhwV1WXH0VOICUuaQqRE=",
+      "hash": "sha256-O3o4lH8aPw4IO4VGE9\/MxIWD7hU6SGN3eYGHkfZf1MU=",
       "url": "images\/weather\/clear-day.svg"
     },
     {
-      "hash": "sha256-NMRlOnLqbC6rXvO45NTK8FYPRSE69nRoVz2yrdCko60=",
+      "hash": "sha256-wO3nFRg6Qk3T\/1qTJIl0Br59T60KeYNO3VvSMyxLyGE=",
       "url": "images\/weather\/clear-night.svg"
     },
     {
-      "hash": "sha256-6pQi8DD+g+2etjULTGa\/8WMWzzqZA\/Ri8\/7EAlZBO3o=",
+      "hash": "sha256-IzyfbqbgVhByZg7J8NYbUHuB7MDbiIviHohx5mIPPJc=",
       "url": "images\/weather\/cloudy.svg"
     },
     {
-      "hash": "sha256-9Q7OZxBUsMpRvETNEFrfc\/DIrPSERiHrEBhLE8jNSHI=",
+      "hash": "sha256-ZZbM1Hb95q1aPpdNGPQB\/uLiWYoWQ3xpRe06BcPfH0s=",
       "url": "images\/weather\/fog.svg"
     },
     {
-      "hash": "sha256-DjREBYygS86XK5RfiHLdmHQxhwV1WXH0VOICUuaQqRE=",
+      "hash": "sha256-O3o4lH8aPw4IO4VGE9\/MxIWD7hU6SGN3eYGHkfZf1MU=",
       "url": "images\/weather\/large\/clear-day.svg"
     },
     {
-      "hash": "sha256-NMRlOnLqbC6rXvO45NTK8FYPRSE69nRoVz2yrdCko60=",
+      "hash": "sha256-wO3nFRg6Qk3T\/1qTJIl0Br59T60KeYNO3VvSMyxLyGE=",
       "url": "images\/weather\/large\/clear-night.svg"
     },
     {
-      "hash": "sha256-o9fHeInT+dYEc4OHdc6qSd9vCVWydSBgA8Tt9xgNN88=",
+      "hash": "sha256-IzyfbqbgVhByZg7J8NYbUHuB7MDbiIviHohx5mIPPJc=",
       "url": "images\/weather\/large\/cloudy.svg"
     },
     {
-      "hash": "sha256-mxcHW5\/VmipRCS7pWN2cgz8C6p3fRT8oxh9E8t+Jl18=",
+      "hash": "sha256-ZZbM1Hb95q1aPpdNGPQB\/uLiWYoWQ3xpRe06BcPfH0s=",
       "url": "images\/weather\/large\/fog.svg"
     },
     {
-      "hash": "sha256-xzSUThdZdMAbqxngA8kVzHOFoYN0ZNS6SQsgpcLSmWE=",
+      "hash": "sha256-KVI2FBF2WUrVIDuWMivwGF6gBgu4eADle1HYQRDr0Tw=",
       "url": "images\/weather\/large\/partly-cloudy-day.svg"
     },
     {
-      "hash": "sha256-nkDRoLjB6Q2UFIF59Ic\/ZUkVgcG4rrGSqU4dido0Z18=",
+      "hash": "sha256-Ui5padqB8eU4GX1wE5Ok+7xMRVhf5il9bHAuOZ5YAGw=",
       "url": "images\/weather\/large\/partly-cloudy-night.svg"
     },
     {
-      "hash": "sha256-kuOV4tHJlW5yRiIAg2T+yxMUjMd+hKobyzsvYkTAhfU=",
+      "hash": "sha256-Vy+FF8qXqXLPeUCWNkoZB\/EKvQQ9V5mxDmly56gl9uY=",
       "url": "images\/weather\/large\/rain.svg"
     },
     {
@@ -925,47 +925,47 @@
       "url": "images\/weather\/large\/scattered-thunderstorms-night.svg"
     },
     {
-      "hash": "sha256-uQn5WW91n6rXRXGRm5n0Ccx2f0CDJK3NAf775xHWSNg=",
+      "hash": "sha256-O3cYIN3DRAldzp5E6D6ql\/PEjC7hcE\/dNxWxodjrTK0=",
       "url": "images\/weather\/large\/showers-day.svg"
     },
     {
-      "hash": "sha256-ZwFD2BXisTF\/bJz9DCmGFedJyVh3g3R4QcjhCVn2k5A=",
+      "hash": "sha256-rlCr2vTHmMET84OP4EcbSbWlYGJCpkSv\/HPnVk94z0A=",
       "url": "images\/weather\/large\/showers-night.svg"
     },
     {
-      "hash": "sha256-fCGsypkRLWLSz0j8Q1Yy92IDgFsUn5nasMWRjM0kbPw=",
+      "hash": "sha256-pSoIJWK6sZdWNxfY3k2zu35OFD6qgKKdMb1rZ5EW9pc=",
       "url": "images\/weather\/large\/snow-showers-day.svg"
     },
     {
-      "hash": "sha256-tRpnDPFFy0vaJw2EHMjNfqrSglMBY+IG1QAX9eVwL0U=",
+      "hash": "sha256-8PGGRLLEzhQbV1pukd3hZ5Aq8r7fYp4J5nsoK1fHPKI=",
       "url": "images\/weather\/large\/snow-showers-night.svg"
     },
     {
-      "hash": "sha256-f94QYehcQB7ecUfQ5T79pCCJaXtrWbgBARE+pi7WEhU=",
+      "hash": "sha256-DT29P8Kl8X3X8VF\/VBB6DqkNY5BuhXriCAvgn9FeTcY=",
       "url": "images\/weather\/large\/snowy.svg"
     },
     {
-      "hash": "sha256-XbsHV1R7Lpd6cAMzCe4vtGeXl7wX\/\/SodC0bwUI8Pn0=",
+      "hash": "sha256-hcRedOhB4gPPIwR1cnIVLoxNIQ56puaFYXNgXNNSi\/M=",
       "url": "images\/weather\/large\/thunder-rain.svg"
     },
     {
-      "hash": "sha256-E1Ask4M2n7Z\/5ED104EsqhhCzw5MGOLw0Nogvk5jwaw=",
+      "hash": "sha256-t4mfDJsSfxT29hh7a5c02DKHOnE5dOWiTP\/NFUbGX3k=",
       "url": "images\/weather\/large\/thunder-showers-day.svg"
     },
     {
-      "hash": "sha256-CyTYjmuokdY5g9LooeCJL7E\/ucBIq6AAyERt6nHYhvs=",
+      "hash": "sha256-iQPw+cjzfzjSnjmH9Ge7lKWBYqq0ZOM0ANkB\/NFQ3NI=",
       "url": "images\/weather\/large\/thunder-showers-night.svg"
     },
     {
-      "hash": "sha256-SjcT2+VndM7zXd5Dvtg8j5uWVgY3gUMXPmWgP40dNxQ=",
+      "hash": "sha256-2Egq7+lnOrXD\/FR1R9LUjNOdLZu0MHBAIzNeb69f7O8=",
       "url": "images\/weather\/large\/wind.svg"
     },
     {
-      "hash": "sha256-pi5fiVkKJcKcISGPjoqS2Up7HQU7wKGg855wbK5aUzY=",
+      "hash": "sha256-KVI2FBF2WUrVIDuWMivwGF6gBgu4eADle1HYQRDr0Tw=",
       "url": "images\/weather\/partly-cloudy-day.svg"
     },
     {
-      "hash": "sha256-hnl7I8LaMzGwcpTDQYhkiXGsXCMZ\/DMeSwEgZBA11kg=",
+      "hash": "sha256-Ui5padqB8eU4GX1wE5Ok+7xMRVhf5il9bHAuOZ5YAGw=",
       "url": "images\/weather\/partly-cloudy-night.svg"
     },
     {
@@ -973,43 +973,51 @@
       "url": "images\/weather\/rain-drop.png"
     },
     {
-      "hash": "sha256-J1pw9DbWCpAD6a4Iic3AQ2jNDFcIQnq4hZW9ROGbnEQ=",
+      "hash": "sha256-Vy+FF8qXqXLPeUCWNkoZB\/EKvQQ9V5mxDmly56gl9uY=",
       "url": "images\/weather\/rain.svg"
     },
     {
-      "hash": "sha256-0CzRkQFZ4Mmn2gG1kfcWf+KqGmSjR5sLVas5zwBmkUs=",
+      "hash": "sha256-O3cYIN3DRAldzp5E6D6ql\/PEjC7hcE\/dNxWxodjrTK0=",
       "url": "images\/weather\/showers-day.svg"
     },
     {
-      "hash": "sha256-v6K4S4EdGDQpmG29Kk7zSGGfjSsZZlLMJkron2XHT10=",
+      "hash": "sha256-rlCr2vTHmMET84OP4EcbSbWlYGJCpkSv\/HPnVk94z0A=",
       "url": "images\/weather\/showers-night.svg"
     },
     {
-      "hash": "sha256-HAF8bRVFljBfZzEwZRybzaEIGdbV+djC1LXiD9Zl4qE=",
+      "hash": "sha256-pSoIJWK6sZdWNxfY3k2zu35OFD6qgKKdMb1rZ5EW9pc=",
       "url": "images\/weather\/snow-showers-day.svg"
     },
     {
-      "hash": "sha256-xyL4mJ8Ozn18w9f64huVVa2P2xgmdoWINgGtrACHibw=",
+      "hash": "sha256-8PGGRLLEzhQbV1pukd3hZ5Aq8r7fYp4J5nsoK1fHPKI=",
       "url": "images\/weather\/snow-showers-night.svg"
     },
     {
-      "hash": "sha256-bJa0WCAstSSEHNHxD0VMx4w\/h47HQ0CkGb3l6RH5XSU=",
+      "hash": "sha256-DT29P8Kl8X3X8VF\/VBB6DqkNY5BuhXriCAvgn9FeTcY=",
       "url": "images\/weather\/snowy.svg"
     },
     {
-      "hash": "sha256-bVlGDnVNH9DG4J1rMLUcYXW5BCOv9ehWHWYAOIviGAs=",
+      "hash": "sha256-WQD9SZCK4SzVrA0ZjRSTHQPbq878wsgGWBpMx2KRoPY=",
+      "url": "images\/weather\/sunrise.svg"
+    },
+    {
+      "hash": "sha256-r\/VbzM0\/2\/PMRU7px9d0pA9SzM+pwxC8ShVsdor8SOw=",
+      "url": "images\/weather\/sunset.svg"
+    },
+    {
+      "hash": "sha256-hcRedOhB4gPPIwR1cnIVLoxNIQ56puaFYXNgXNNSi\/M=",
       "url": "images\/weather\/thunder-rain.svg"
     },
     {
-      "hash": "sha256-qD7V77vviHv1KAXgSrvEZYGJqwCKADOJDV6oQbuwobM=",
+      "hash": "sha256-t4mfDJsSfxT29hh7a5c02DKHOnE5dOWiTP\/NFUbGX3k=",
       "url": "images\/weather\/thunder-showers-day.svg"
     },
     {
-      "hash": "sha256-PlJwxj+NELcIA+QmRTzDV2FqgyEyxNoHB\/RwU\/jF4GQ=",
+      "hash": "sha256-iQPw+cjzfzjSnjmH9Ge7lKWBYqq0ZOM0ANkB\/NFQ3NI=",
       "url": "images\/weather\/thunder-showers-night.svg"
     },
     {
-      "hash": "sha256-epElgCqG+BYQ6AKb97SOTIMkAMRSN7PNW+EPXXmZBug=",
+      "hash": "sha256-2Egq7+lnOrXD\/FR1R9LUjNOdLZu0MHBAIzNeb69f7O8=",
       "url": "images\/weather\/wind.svg"
     },
     {
@@ -1021,5 +1029,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "yQ483YUn"
+  "version": "MxyIcDoK"
 };

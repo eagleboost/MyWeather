@@ -45,7 +45,7 @@
 
 .fellslike-text[b-mfzfoqtmh0]{
     font-size: small;
-    color: darkgray;
+    color: lightgray;
 }
 /* /Shared/DayWeatherSection.razor.rz.scp.css */
 .grid-container-5-columns[b-3z8p1w50a4] {
@@ -113,6 +113,63 @@
 .collapsible-content-night[b-3z8p1w50a4] {
     background-color: rgba(82, 85, 102, 1);
 }
+/* /Shared/HorizontalHourlyWeatherSection.razor.rz.scp.css */
+.grid-container-24-columns[b-0nxzno7xo4] {
+    display: grid;
+    grid-template-columns: max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content;
+}
+
+.horizontal-hourly-items[b-0nxzno7xo4] {
+    white-space:nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling:touch;
+}
+
+.hourly-item[b-0nxzno7xo4]{
+    display:inline-block;
+    justify-content:center;
+    margin: 5px;
+}
+
+.hourly-item-5-rows[b-0nxzno7xo4] {
+    display: grid;
+    grid-template-rows: max-content max-content max-content max-content max-content;
+}
+
+.horizontal-hourly-items-container[b-0nxzno7xo4]{
+    margin-left: 6px;
+    overflow: hidden;
+}
+
+.small-text[b-0nxzno7xo4]{
+    display: flex;
+    justify-content:center;
+}
+
+.smaller-text[b-0nxzno7xo4]{
+    font-size: small;
+}
+
+.precipitation-chance-text[b-0nxzno7xo4]{
+    font-size: x-small;
+}
+
+.weather-icon[b-0nxzno7xo4]{
+    width: 36px;
+    height: 36px;
+}
+
+.precipitation-chance[b-0nxzno7xo4] {
+    display: flex;
+}
+
+.rain-drop-icon[b-0nxzno7xo4]{
+    display: flex;
+    align-items: center;
+    width: 12px;
+    height: 12px;
+}
 /* /Shared/HourlyWeatherSection.razor.rz.scp.css */
 .grid-container-24-columns[b-n6h5kljmqg] {
     display: grid;
@@ -128,7 +185,7 @@
     color: darkgray;
 }
 
-.hour-item[b-n6h5kljmqg]{
+.hourly-items[b-n6h5kljmqg]{
     margin-left: 6px;
 }
 
