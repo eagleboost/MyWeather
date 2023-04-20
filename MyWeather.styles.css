@@ -35,7 +35,7 @@
 .large-icon[b-mfzfoqtmh0] {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 15px;
     width: 180px;
 }
 
@@ -46,6 +46,7 @@
 .fellslike-text[b-mfzfoqtmh0]{
     font-size: small;
     color: lightgray;
+    margin-top: 5px;
 }
 /* /Shared/DayWeatherSection.razor.rz.scp.css */
 .grid-container-5-columns[b-3z8p1w50a4] {
