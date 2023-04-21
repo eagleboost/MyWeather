@@ -5,6 +5,10 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
+      "hash": "sha256-RgcS7WLIphAFBMs06tdpYekQsNQJMF9qpgNfSLo4KMA=",
+      "url": "_framework\/JetBrains.Annotations.dll"
+    },
+    {
       "hash": "sha256-QP+9ib2tHpYrkwMTIkh60aO49DKTGwJBAA5RaITVGDE=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -801,11 +805,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-L5wLOMacvMPMqIUzQ0DuTkS9BIleJf85dY4ruqTw6\/s=",
+      "hash": "sha256-nTs3dh6COEA6xAYhUV979YU10LGz1z\/A7y5JU4GNLvY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-mpOyyytUuCACE4OTQkFLiEFlLTdehNB67xY8uKDxFto=",
+      "hash": "sha256-K2Ei3rvMKO\/FUdiHFhKKZXE4UXXi0yvvccFoe0CJrAg=",
       "url": "_framework\/MyWeather.dll"
     },
     {
@@ -1029,5 +1033,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "HuztwluK"
+  "version": "EOu33cb7"
 };
