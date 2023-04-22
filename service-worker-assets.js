@@ -5,10 +5,6 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-RgcS7WLIphAFBMs06tdpYekQsNQJMF9qpgNfSLo4KMA=",
-      "url": "_framework\/JetBrains.Annotations.dll"
-    },
-    {
       "hash": "sha256-QP+9ib2tHpYrkwMTIkh60aO49DKTGwJBAA5RaITVGDE=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -805,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-nTs3dh6COEA6xAYhUV979YU10LGz1z\/A7y5JU4GNLvY=",
+      "hash": "sha256-Da\/hyQx72AhEvMuPikFtc1T7sDir1kpFXN4+ln0ljsA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-K2Ei3rvMKO\/FUdiHFhKKZXE4UXXi0yvvccFoe0CJrAg=",
+      "hash": "sha256-WARjd0RQoecKXsHq0zkDFxGDIUYimgYivrqjVLc\/nLs=",
       "url": "_framework\/MyWeather.dll"
     },
     {
-      "hash": "sha256-LKw+deI8vteXKI4j0+GJyEwKvpxLOIpb5uaK3Z4uxjM=",
+      "hash": "sha256-tXcNZPbPpvpX6unxafF6JIZwkUTleXULeLNsG0RC5X0=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -1033,5 +1029,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "EOu33cb7"
+  "version": "k+iR9ytN"
 };
