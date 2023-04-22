@@ -1025,7 +1025,7 @@
       "url": "images\/weather\/wind.svg"
     },
     {
-      "hash": "sha256-L4i\/6I4i6RHOLxhd3FqBJHFeSgDXouGlKwVk5NG6ivM=",
+      "hash": "sha256-K4Hk\/QFeWTG1NaZusST34vlgWKRCYcgGOVI+1jdBoAw=",
       "url": "index.html"
     },
     {
@@ -1041,5 +1041,5 @@
       "url": "_content\/Darnton.Blazor.DeviceInterop\/js\/Geolocation.js"
     }
   ],
-  "version": "jhTcAxsi"
+  "version": "caFb8Lu8"
 };
