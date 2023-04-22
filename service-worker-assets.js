@@ -5,14 +5,6 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-DZ\/jfCwm1TFrBcBrcJJkyABDTDVMz8ErYETwpSRSIas=",
-      "url": "_framework\/Darnton.Blazor.DeviceInterop.dll"
-    },
-    {
-      "hash": "sha256-lZBlkdG3twAkNSrZlgYv9rn05s0UkaOk5TNWzqP7zCA=",
-      "url": "_framework\/Units.dll"
-    },
-    {
       "hash": "sha256-QP+9ib2tHpYrkwMTIkh60aO49DKTGwJBAA5RaITVGDE=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -809,12 +801,16 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-fu1oVbXxFuUyqvgAAOQ8UvdBkVltD9jrtOE6FpBniuY=",
+      "hash": "sha256-Da\/hyQx72AhEvMuPikFtc1T7sDir1kpFXN4+ln0ljsA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-R0Oupk21eQwhUffHMe\/eoVFOhdixpE4Bdni\/1SEhXJE=",
+      "hash": "sha256-WARjd0RQoecKXsHq0zkDFxGDIUYimgYivrqjVLc\/nLs=",
       "url": "_framework\/MyWeather.dll"
+    },
+    {
+      "hash": "sha256-tXcNZPbPpvpX6unxafF6JIZwkUTleXULeLNsG0RC5X0=",
+      "url": "MyWeather.styles.css"
     },
     {
       "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
@@ -1025,21 +1021,13 @@
       "url": "images\/weather\/wind.svg"
     },
     {
-      "hash": "sha256-K4Hk\/QFeWTG1NaZusST34vlgWKRCYcgGOVI+1jdBoAw=",
+      "hash": "sha256-L4i\/6I4i6RHOLxhd3FqBJHFeSgDXouGlKwVk5NG6ivM=",
       "url": "index.html"
     },
     {
       "hash": "sha256-33npK\/hmnIoRc9qG9vs1vtWMRaNvE7G7F59sc93XILM=",
       "url": "manifest.json"
-    },
-    {
-      "hash": "sha256-tXcNZPbPpvpX6unxafF6JIZwkUTleXULeLNsG0RC5X0=",
-      "url": "MyWeather.styles.css"
-    },
-    {
-      "hash": "sha256-BOyiH18DbIIvbW\/0flv4Mg+Fs6bxdj5PvuVmNAZpcs8=",
-      "url": "_content\/Darnton.Blazor.DeviceInterop\/js\/Geolocation.js"
     }
   ],
-  "version": "caFb8Lu8"
+  "version": "k+iR9ytN"
 };

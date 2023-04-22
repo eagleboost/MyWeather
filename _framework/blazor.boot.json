@@ -8,7 +8,6 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "Darnton.Blazor.DeviceInterop.dll": "sha256-DZ\/jfCwm1TFrBcBrcJJkyABDTDVMz8ErYETwpSRSIas=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-QP+9ib2tHpYrkwMTIkh60aO49DKTGwJBAA5RaITVGDE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-sCo2GmgrMtZQSY+teWT1XlU93C\/x75FDwL155zjC5TI=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-x+mgWzFuhFpGICdKYW5hmKJ3HUUw4GrXhMFi17T4JIM=",
@@ -37,7 +36,7 @@
       "Microsoft.Win32.Primitives.dll": "sha256-lucJz4+wGO1ZdiEthwNGGIOUtcRUsVVabMVW1gtQIMQ=",
       "Microsoft.Win32.Registry.dll": "sha256-WGxv3PzEfgVp3usrYhy+MBHjJfAjodWNBQU6wbPwnis=",
       "mscorlib.dll": "sha256-qqpKd+W+AFb6UxudEYEKzrz7ma81p5LrWUwPBVvHV4U=",
-      "MyWeather.dll": "sha256-R0Oupk21eQwhUffHMe\/eoVFOhdixpE4Bdni\/1SEhXJE=",
+      "MyWeather.dll": "sha256-WARjd0RQoecKXsHq0zkDFxGDIUYimgYivrqjVLc\/nLs=",
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.AppContext.dll": "sha256-7TWcUhjRPqzWr21Y2gCSBaAFyJxlc7z4owojtSWcSVI=",
       "System.Buffers.dll": "sha256-D+pqpCCHBkmhRKEaV+INC98dHtA1JDcg9mWqL9Ond0Q=",
@@ -200,7 +199,6 @@
       "System.Xml.XmlSerializer.dll": "sha256-8qnJDsE4pVWkhcfAoPGMsrgty96NOfCOAs+4swI4LPY=",
       "System.Xml.XPath.dll": "sha256-76s7J3orfX5VlcarhdfOV\/05St84NlfvGDul\/SaHe7s=",
       "System.Xml.XPath.XDocument.dll": "sha256-G43aXAhY6bZCObx3e\/T4Wf\/OvC1yO14GIhbmpz38hn4=",
-      "Units.dll": "sha256-lZBlkdG3twAkNSrZlgYv9rn05s0UkaOk5TNWzqP7zCA=",
       "WindowsBase.dll": "sha256-SgDw2itoVCJKQ9AGrgAuRDPOFrMUYvGZeeDXCm6eC1M="
     },
     "extensions": null,
