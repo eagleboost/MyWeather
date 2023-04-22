@@ -14,7 +14,7 @@
 }
 
 .rounded-corner-night[b-icz2rgwdbx]{
-    background: rgba(48, 52, 60, 1);
+    background: rgb(53, 55, 69);
 }
 
 .grid-container-2-columns[b-icz2rgwdbx] {
@@ -115,9 +115,18 @@
     background-color: rgba(82, 85, 102, 1);
 }
 /* /Shared/HorizontalHourlyWeatherSection.razor.rz.scp.css */
-.grid-container-24-columns[b-0nxzno7xo4] {
-    display: grid;
-    grid-template-columns: max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content max-content;
+.today-description[b-0nxzno7xo4] {
+    font-size: small;
+    margin: 5px;
+}
+
+hr[b-0nxzno7xo4] {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
 
 .horizontal-hourly-items[b-0nxzno7xo4] {
