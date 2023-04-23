@@ -32,6 +32,7 @@
 
 .last-update-time[b-icz2rgwdbx] {
     margin-right: 5px;
+    font-size: x-small;
 }
 
 .refresh-button[b-icz2rgwdbx] {
@@ -44,12 +45,11 @@
     cursor: pointer;
     display: inline-block;
     font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
-    font-size: 13px;
+    font-size: x-small;
     font-weight: 400;
     line-height: 1.15385;
     margin: 0;
     outline: none;
-    padding: 8px .8em;
     position: relative;
     text-align: center;
     text-decoration: none;
