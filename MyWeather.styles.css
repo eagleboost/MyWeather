@@ -1,5 +1,8 @@
 /* /Pages/Index.razor.rz.scp.css */
-.main-div[b-icz2rgwdbx] {
+.headline-div[b-icz2rgwdbx] {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto min-content min-content;
 }
 
 .rounded-corner[b-icz2rgwdbx] {
@@ -9,17 +12,66 @@
     color: white;
 }
 
-.rounded-corner-day[b-icz2rgwdbx]{
+.rounded-corner-day[b-icz2rgwdbx] {
     background: rgba(80, 133, 205, 1);
 }
 
-.rounded-corner-night[b-icz2rgwdbx]{
+.rounded-corner-night[b-icz2rgwdbx] {
     background: rgb(53, 55, 69);
 }
 
 .grid-container-2-columns[b-icz2rgwdbx] {
     display: grid;
     grid-template-columns: max-content auto;
+}
+
+.vertical-align-center[b-icz2rgwdbx] {
+    display: flex;
+    align-items: center;
+}
+
+.last-update-time[b-icz2rgwdbx] {
+    margin-right: 5px;
+}
+
+.refresh-button[b-icz2rgwdbx] {
+    background-color: #0095ff;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.15385;
+    margin: 0;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.refresh-button:hover[b-icz2rgwdbx],
+.refresh-button:focus[b-icz2rgwdbx] {
+    background-color: #07c;
+}
+
+.refresh-button:focus[b-icz2rgwdbx] {
+    box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.refresh-button:active[b-icz2rgwdbx] {
+    background-color: #0064bd;
+    box-shadow: none;
 }
 /* /Shared/CheckBox.razor.rz.scp.css */
 .vertical-align-center[b-jquo8bbkt9] {
@@ -134,6 +186,11 @@ hr[b-0nxzno7xo4] {
     overflow-x: scroll;
     overflow-y: hidden;
     -webkit-overflow-scrolling:touch;
+}
+
+[b-0nxzno7xo4]::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
 }
 
 .hourly-item[b-0nxzno7xo4]{
