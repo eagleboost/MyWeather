@@ -76,24 +76,61 @@
     display: flex;
     align-items: center;
 }
-/* /Shared/DayWeatherHead.razor.rz.scp.css */
-.grid-container-2-columns[b-mfzfoqtmh0] {
+/* /Shared/DayWeatherFooter.razor.rz.scp.css */
+.footer-item[b-ogyyxfve86]{
+    display:inline-block;
+    justify-content:center;
+    margin: 5px;
+    padding: 8px;
+}
+
+.footer-item-2-rows[b-ogyyxfve86] {
+    display: grid;
+    grid-template-rows: max-content max-content max-content;
+}
+
+.align-center[b-ogyyxfve86]{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.rounded-corner[b-ogyyxfve86] {
+    border-radius: 18px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.rounded-corner-day[b-ogyyxfve86] {
+    background: rgba(80, 133, 205, 1);
+}
+
+.rounded-corner-night[b-ogyyxfve86] {
+    background: rgb(53, 55, 69);
+}
+
+.footer-image[b-ogyyxfve86]{
+    width: 64px;
+}
+/* /Shared/DayWeatherHeader.razor.rz.scp.css */
+.grid-container-2-columns[b-bq3g1lkaa9] {
     display: grid;
     grid-template-columns: auto auto;
 }
 
-.large-icon[b-mfzfoqtmh0] {
+.large-icon[b-bq3g1lkaa9] {
     display: flex;
     justify-content: center;
     margin-top: 15px;
     width: 180px;
 }
 
-.head-large-text[b-mfzfoqtmh0]{
+.head-large-text[b-bq3g1lkaa9]{
     font-size: 5em;
 }
 
-.fellslike-text[b-mfzfoqtmh0]{
+.fellslike-text[b-bq3g1lkaa9]{
     font-size: small;
     color: lightgray;
     margin-top: 5px;
