@@ -801,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-OtVKN9jKLK5TeJBrZBQyQgJUyaVuCcy594JgD+yf61Y=",
+      "hash": "sha256-hKimosdb8s1rmscvljDQyEUsZQF+3jvvpFg4Y5RyDTw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-1AVQIEenGgN\/uE8HfEDI03gNfZ\/LO6q7x+n9XxrFUVs=",
+      "hash": "sha256-Zd3UdRnkwRnbP6SJSevpDJ3HjyF5lfHIMqbA5uPcXtw=",
       "url": "_framework\/MyWeather.dll"
     },
     {
-      "hash": "sha256-c1BE4\/ahoy2Nc\/gHgK9DadE+NX6JyTTWUcbeSs7Ychk=",
+      "hash": "sha256-qi9gBAuOyQkJY3RgEf7VQTZCFMwYIYPvgffDaDjUwS8=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -1009,6 +1009,22 @@
       "url": "images\/weather\/sunset.svg"
     },
     {
+      "hash": "sha256-ZcteXoCHFRXvQuVImWN7C\/Swy8q4Ck4xwv1071cVc\/0=",
+      "url": "images\/weather\/thermometer-celsius.svg"
+    },
+    {
+      "hash": "sha256-916UAu+YHbyW0Rk2IPcyeHYmM2kpyud7RUOvDoWm9Q4=",
+      "url": "images\/weather\/thermometer-fahrenheit.svg"
+    },
+    {
+      "hash": "sha256-77spJdZFZyrXVUEF97nxlZgzQuUz1\/Kyljy13\/DV\/pA=",
+      "url": "images\/weather\/thermometer-glass-celsius.svg"
+    },
+    {
+      "hash": "sha256-QCuNjvjG10dH+opboSWVwL9EZZFAa4QVWNURRuTo0iA=",
+      "url": "images\/weather\/thermometer-glass-fahrenheit.svg"
+    },
+    {
       "hash": "sha256-hcRedOhB4gPPIwR1cnIVLoxNIQ56puaFYXNgXNNSi\/M=",
       "url": "images\/weather\/thunder-rain.svg"
     },
@@ -1081,5 +1097,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "ORSWPnxO"
+  "version": "XVY\/Y7dn"
 };
