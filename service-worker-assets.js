@@ -801,15 +801,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-hKimosdb8s1rmscvljDQyEUsZQF+3jvvpFg4Y5RyDTw=",
+      "hash": "sha256-OIuuru5H9BR\/TS\/K5VjAZ7obASV+cR9UzWeLEkbVQvg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Zd3UdRnkwRnbP6SJSevpDJ3HjyF5lfHIMqbA5uPcXtw=",
+      "hash": "sha256-dFP7fUIuocEd5vicjHlDx0asbBW\/0ErJUSkf9m5A\/TI=",
       "url": "_framework\/MyWeather.dll"
     },
     {
-      "hash": "sha256-qi9gBAuOyQkJY3RgEf7VQTZCFMwYIYPvgffDaDjUwS8=",
+      "hash": "sha256-hm37DoGKm9IQ52hY13kVcM8HYqCU9wRN88uMOWnEkuc=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -965,6 +965,38 @@
       "url": "images\/weather\/large\/wind.svg"
     },
     {
+      "hash": "sha256-w1iNBZkjeE1977tNOh2m3wr\/yw5Utq11D2GK9ks4MNM=",
+      "url": "images\/weather\/moon-first-quarter.svg"
+    },
+    {
+      "hash": "sha256-UQDcKAZZNVOvxQdoFCzv0x0sWaJuFOWnELW8gJwKmXM=",
+      "url": "images\/weather\/moon-full.svg"
+    },
+    {
+      "hash": "sha256-nwlH33BtmsXGvZ8JquWHs8QuQe9gAkQf0MrihwNq4ug=",
+      "url": "images\/weather\/moon-last-quarter.svg"
+    },
+    {
+      "hash": "sha256-IFepI\/TOFhX386sGVdpK9wrXP3HcCovt4z5BWbYvgOk=",
+      "url": "images\/weather\/moon-new.svg"
+    },
+    {
+      "hash": "sha256-xVhCINKNmQdfV\/ixAs7wpSiZHZDeOl6oM2TUSXdrI6E=",
+      "url": "images\/weather\/moon-waning-crescent.svg"
+    },
+    {
+      "hash": "sha256-CLbUp8TZXNBG75FOT8wC\/oKLzh1UGba+Qemtyl328DI=",
+      "url": "images\/weather\/moon-waning-gibbous.svg"
+    },
+    {
+      "hash": "sha256-Z1y7c+4SXPsgeb7IC3cstOEV7Cu\/3pZFZDoycxRNntM=",
+      "url": "images\/weather\/moon-waxing-crescent.svg"
+    },
+    {
+      "hash": "sha256-a2L2JO3MjXBoOfrcgyHUm04LdFx2bWRTdxBH8E9allQ=",
+      "url": "images\/weather\/moon-waxing-gibbous.svg"
+    },
+    {
       "hash": "sha256-KVI2FBF2WUrVIDuWMivwGF6gBgu4eADle1HYQRDr0Tw=",
       "url": "images\/weather\/partly-cloudy-day.svg"
     },
@@ -1085,6 +1117,10 @@
       "url": "images\/weather\/uv-index.svg"
     },
     {
+      "hash": "sha256-3X97iFbe\/lBXba4Vx43f8s\/bu25I\/yCNv03DEzHDYVc=",
+      "url": "images\/weather\/wind-static.svg"
+    },
+    {
       "hash": "sha256-2Egq7+lnOrXD\/FR1R9LUjNOdLZu0MHBAIzNeb69f7O8=",
       "url": "images\/weather\/wind.svg"
     },
@@ -1097,5 +1133,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "XVY\/Y7dn"
+  "version": "MODZDaUa"
 };

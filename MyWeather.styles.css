@@ -80,8 +80,6 @@
 .footer-item[b-ogyyxfve86]{
     display:inline-block;
     justify-content:center;
-    margin: 5px;
-    padding: 8px;
 }
 
 .footer-item-2-rows[b-ogyyxfve86] {
@@ -89,10 +87,21 @@
     grid-template-rows: max-content max-content max-content;
 }
 
+.footer-item-3-columns[b-ogyyxfve86] {
+    display: grid;
+    grid-template-columns: min-content max-content auto;
+    margin: 15px;
+}
+
 .align-center[b-ogyyxfve86]{
     display: flex;
     justify-content:center;
     align-items: center;
+}
+
+.right-align[b-ogyyxfve86]{
+    display: flex;
+    justify-content: flex-end;
 }
 
 .footer-item-text[b-ogyyxfve86]{
@@ -115,7 +124,20 @@
 }
 
 .footer-image[b-ogyyxfve86]{
-    width: 64px;
+    width: 55px;
+}
+
+.my-weather-text[b-ogyyxfve86]{
+    margin-left: 5px;
+}
+
+.last-updated-text[b-ogyyxfve86]{
+    color: darkgray;
+}
+
+
+.favicon[b-ogyyxfve86]{
+    width: 20px;
 }
 /* /Shared/DayWeatherHeader.razor.rz.scp.css */
 .grid-container-2-columns[b-bq3g1lkaa9] {
