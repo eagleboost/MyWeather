@@ -1081,7 +1081,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-Wrhvj3b8qJVItn26Jz8ETEzVZxTKkD39rCeqGsGHN5k=",
+      "hash": "sha256-g9h2OK\/0wHn1ILjzWw7uDgpbk7u\/XU3F+g5lNVTg41E=",
       "url": "MyWeather.styles.css"
     },
     {
@@ -1097,5 +1097,5 @@
       "url": "_content\/Blazor.Component.Maps\/googleMaps.js"
     }
   ],
-  "version": "ar1dWS\/Q"
+  "version": "S0xfFqJW"
 };
