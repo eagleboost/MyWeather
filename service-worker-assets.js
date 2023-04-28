@@ -5,15 +5,15 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-QP+9ib2tHpYrkwMTIkh60aO49DKTGwJBAA5RaITVGDE=",
+      "hash": "sha256-\/EkWRHMHBhfvvlx5hLVtXGPm8+Gyp4WkPiKKiiJIrqQ=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
     {
-      "hash": "sha256-x+mgWzFuhFpGICdKYW5hmKJ3HUUw4GrXhMFi17T4JIM=",
+      "hash": "sha256-eoQ2CgfBGkvbK4QUMBgFDPIBqJem+g8247Fb3ZmnmCI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-Ei00BXaWruLv+xVMalsdwmkdA9I3gTNUO88KMICpKHs=",
+      "hash": "sha256-p3BQFPwUbOgu5j9V+1HlUGwDcVzB7iYNO4dIsDCOAgA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -21,11 +21,19 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "hash": "sha256-sCo2GmgrMtZQSY+teWT1XlU93C\/x75FDwL155zjC5TI=",
+      "hash": "sha256-SvjxqyTqc68zPsYivPRkvjKRhUg5zYufzqwGNS83bwg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-hNGwl2DXpHcUkSaHjRqlYWL2b46bTsSaCPeIvDSTmSo=",
+      "hash": "sha256-qFKmKNr9iAZiZxOVvLJBfMhkKfDy1GvY81fHh1hiphU=",
+      "url": "_framework\/Microsoft.AspNetCore.Http.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-J2xQUZ4BD6tsrQkvGS5HDQfkTGMzmaS76TA9nJrtCpg=",
+      "url": "_framework\/Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
+      "hash": "sha256-eIu14RWCV9bKCAARda4hnWGsOKJfmnGfQpkmeRnSibQ=",
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll"
     },
     {
@@ -61,6 +69,10 @@
       "url": "_framework\/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
+      "hash": "sha256-xGHRl43H0oVj98tx9lbO8Vg2d\/mtIBAdnXSv20g0Dm4=",
+      "url": "_framework\/Microsoft.Extensions.FileProviders.Embedded.dll"
+    },
+    {
       "hash": "sha256-9xkIbIienaRj9Td2MyWYzL9JmVx6CKbGCPrvJ1Pxfn8=",
       "url": "_framework\/Microsoft.Extensions.FileProviders.Physical.dll"
     },
@@ -89,7 +101,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-mVa0kFJEOfNCeM6spj6DE0H37nHbk++P5R+f6Hi4UQ8=",
+      "hash": "sha256-OBt2YgODs1L5bJWrDjUFgcgGMUjDfmFTHCt9t69RxgU=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -769,6 +781,14 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
+      "hash": "sha256-jX7TKGs2Rv+Ms0gef8F34MJucrWGNYuXvUb7kJAkXok=",
+      "url": "_framework\/System.Linq.Dynamic.Core.dll"
+    },
+    {
+      "hash": "sha256-zDfizdCjCOYTHnn\/kW9MDluMg7Qy1Mlbhj0H4Uuch68=",
+      "url": "_framework\/Blazor.Component.Maps.dll"
+    },
+    {
       "hash": "sha256-lOCs45frNf+D7me6lKLgUhRCdt4VwHCp9H6Ct+YWzfs=",
       "url": "_framework\/blazor.webassembly.js"
     },
@@ -801,16 +821,12 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-XzG5ZEDlmwfJR8L1YvYeDQbgCvZrWcuehk7112OlINQ=",
+      "hash": "sha256-OiJUmNbZMu8pBHhFTh45FHVHRCO+VKNnY0yrV6AsvaI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-6Np4HkL0C6gPVgs5KWlYjlGayD+8fz5mRgCiPF8XUgM=",
+      "hash": "sha256-mG\/tE7KeS+oBQ+9du17PM4nTNKy3AaGisK6ObBRk1wg=",
       "url": "_framework\/MyWeather.dll"
-    },
-    {
-      "hash": "sha256-6hhtMjTXNkffag\/0MiV3H5RFsGfW5SqaRkYQkK2xF4Y=",
-      "url": "MyWeather.styles.css"
     },
     {
       "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
@@ -873,6 +889,10 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-56VVysEKfRlZu3zUxDneXlP8\/rUEbK25Ukvs64Wqj74=",
+      "url": "images\/location.png"
+    },
+    {
       "hash": "sha256-O3o4lH8aPw4IO4VGE9\/MxIWD7hU6SGN3eYGHkfZf1MU=",
       "url": "images\/weather\/clear-day.svg"
     },
@@ -891,78 +911,6 @@
     {
       "hash": "sha256-Bd+7z9BKumGCU392FQAbjgySxWzttNfwoZy5k+cOshw=",
       "url": "images\/weather\/humidity.svg"
-    },
-    {
-      "hash": "sha256-O3o4lH8aPw4IO4VGE9\/MxIWD7hU6SGN3eYGHkfZf1MU=",
-      "url": "images\/weather\/large\/clear-day.svg"
-    },
-    {
-      "hash": "sha256-wO3nFRg6Qk3T\/1qTJIl0Br59T60KeYNO3VvSMyxLyGE=",
-      "url": "images\/weather\/large\/clear-night.svg"
-    },
-    {
-      "hash": "sha256-IzyfbqbgVhByZg7J8NYbUHuB7MDbiIviHohx5mIPPJc=",
-      "url": "images\/weather\/large\/cloudy.svg"
-    },
-    {
-      "hash": "sha256-ZZbM1Hb95q1aPpdNGPQB\/uLiWYoWQ3xpRe06BcPfH0s=",
-      "url": "images\/weather\/large\/fog.svg"
-    },
-    {
-      "hash": "sha256-KVI2FBF2WUrVIDuWMivwGF6gBgu4eADle1HYQRDr0Tw=",
-      "url": "images\/weather\/large\/partly-cloudy-day.svg"
-    },
-    {
-      "hash": "sha256-Ui5padqB8eU4GX1wE5Ok+7xMRVhf5il9bHAuOZ5YAGw=",
-      "url": "images\/weather\/large\/partly-cloudy-night.svg"
-    },
-    {
-      "hash": "sha256-Vy+FF8qXqXLPeUCWNkoZB\/EKvQQ9V5mxDmly56gl9uY=",
-      "url": "images\/weather\/large\/rain.svg"
-    },
-    {
-      "hash": "sha256-E1Ask4M2n7Z\/5ED104EsqhhCzw5MGOLw0Nogvk5jwaw=",
-      "url": "images\/weather\/large\/scattered-thunderstorms-day.svg"
-    },
-    {
-      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": "images\/weather\/large\/scattered-thunderstorms-night.svg"
-    },
-    {
-      "hash": "sha256-O3cYIN3DRAldzp5E6D6ql\/PEjC7hcE\/dNxWxodjrTK0=",
-      "url": "images\/weather\/large\/showers-day.svg"
-    },
-    {
-      "hash": "sha256-rlCr2vTHmMET84OP4EcbSbWlYGJCpkSv\/HPnVk94z0A=",
-      "url": "images\/weather\/large\/showers-night.svg"
-    },
-    {
-      "hash": "sha256-pSoIJWK6sZdWNxfY3k2zu35OFD6qgKKdMb1rZ5EW9pc=",
-      "url": "images\/weather\/large\/snow-showers-day.svg"
-    },
-    {
-      "hash": "sha256-8PGGRLLEzhQbV1pukd3hZ5Aq8r7fYp4J5nsoK1fHPKI=",
-      "url": "images\/weather\/large\/snow-showers-night.svg"
-    },
-    {
-      "hash": "sha256-DT29P8Kl8X3X8VF\/VBB6DqkNY5BuhXriCAvgn9FeTcY=",
-      "url": "images\/weather\/large\/snowy.svg"
-    },
-    {
-      "hash": "sha256-hcRedOhB4gPPIwR1cnIVLoxNIQ56puaFYXNgXNNSi\/M=",
-      "url": "images\/weather\/large\/thunder-rain.svg"
-    },
-    {
-      "hash": "sha256-t4mfDJsSfxT29hh7a5c02DKHOnE5dOWiTP\/NFUbGX3k=",
-      "url": "images\/weather\/large\/thunder-showers-day.svg"
-    },
-    {
-      "hash": "sha256-iQPw+cjzfzjSnjmH9Ge7lKWBYqq0ZOM0ANkB\/NFQ3NI=",
-      "url": "images\/weather\/large\/thunder-showers-night.svg"
-    },
-    {
-      "hash": "sha256-2Egq7+lnOrXD\/FR1R9LUjNOdLZu0MHBAIzNeb69f7O8=",
-      "url": "images\/weather\/large\/wind.svg"
     },
     {
       "hash": "sha256-w1iNBZkjeE1977tNOh2m3wr\/yw5Utq11D2GK9ks4MNM=",
@@ -1131,7 +1079,23 @@
     {
       "hash": "sha256-33npK\/hmnIoRc9qG9vs1vtWMRaNvE7G7F59sc93XILM=",
       "url": "manifest.json"
+    },
+    {
+      "hash": "sha256-Wrhvj3b8qJVItn26Jz8ETEzVZxTKkD39rCeqGsGHN5k=",
+      "url": "MyWeather.styles.css"
+    },
+    {
+      "hash": "sha256-xDgsc9mbBxTy5hafkHVVm\/JsY8iOOKPZ2C501rNQN4I=",
+      "url": "_content\/Blazor.Component.Maps\/geo.js"
+    },
+    {
+      "hash": "sha256-QNw\/60R6gpSZKuhWE\/BUXezx5uqpoz5FNtaJlXSIm8I=",
+      "url": "_content\/Blazor.Component.Maps\/geo.min.js"
+    },
+    {
+      "hash": "sha256-Nlhl1lDqp7+nWjSFdH\/7mMXtI6+CzhIqNHry11UIczU=",
+      "url": "_content\/Blazor.Component.Maps\/googleMaps.js"
     }
   ],
-  "version": "dKGMzPMH"
+  "version": "ar1dWS\/Q"
 };

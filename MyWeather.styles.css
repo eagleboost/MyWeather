@@ -71,6 +71,25 @@
     background-color: #0064bd;
     box-shadow: none;
 }
+
+.position-button[b-icz2rgwdbx]{
+    background-color: transparent;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+}
+
+.position-image[b-icz2rgwdbx]{
+    width: 24px;
+}
+
+.location-2-columns[b-icz2rgwdbx] {
+    display: grid;
+    grid-template-columns: auto min-content;
+    margin: 20px;
+}
 /* /Shared/CheckBox.razor.rz.scp.css */
 .vertical-align-center[b-jquo8bbkt9] {
     display: flex;
